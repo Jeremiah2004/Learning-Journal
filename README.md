@@ -1,2 +1,2 @@
-# Learning-Journal
-This documents my uni-led adventure/s in programming
+# October 2024
+I started working on my game "Easier Said Than Run", a 2D platform game geared towards a surviving in a hectic, fast-paced environment. The aim of the game is to keep the running character away from the objects that come flying out at him. The further your character goes, the quicker the character would speed up and the score would increase with your distance. I wanted to model my game off the no internet dinosaur game but with some notable aesthetic differences. The first of the four tutorials I decided to write up was the character movement tutorial, which I would document as created the program where the sprite could move forwards.
