@@ -6,4 +6,8 @@ The first of the four tutorials I decided to write up was the scene setting tuto
 The second of the four tutorials I decided to write up was the character movement tutorial, which I would document as created the program where the sprite could move forwards and backwards. This was done by me engaging in scripting for the first time. After attaching the script to the character, I created a class  
 
 
-The third of the four tutorials I decided to make was the character animation tutorial, something I thought would help people following in my footsteps to help flip the character when advancing in the opposite direction and for there to be some movement in the legs when walking and/or running in general.
+The third of the four tutorials I decided to make was the character animation tutorial, something I thought would help people following in my footsteps to help flip the character when advancing in the opposite direction and for there to be some movement in the legs when walking and/or running in general. This was achieved by learning and applying usage of the animation tool and animator component within the Unity tool. I created a sequence of sprite stances for thr running and jumping and triggered them by an if statement that would detect whether or not it was time to put the animation in effect.
+
+# December 2024 
+
+
